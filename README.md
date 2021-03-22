@@ -1,5 +1,5 @@
 # Hong-Kong-Temperature-Prediction-
-In this project, we employed a seasonal ARIMA model to forecast the temperature in Hong Kong.
+In this project, we perfomed time series analysis on the temperature in Hong Kong.
 The temperature data is downloaded from Hong Kong Observatory. The link is http://www.hko.gov.hk/cis/monthlyElement_uc.htm. 
 We used the historical data from 1885 Jan to 2017 Dec and forecast temperature of different months of 2018.
 
